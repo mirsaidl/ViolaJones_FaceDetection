@@ -7,7 +7,7 @@ Welcome to our project on face detection using the **Viola-Jones algorithm**, pa
 ```
 Abdurasulov Mirsaid 12225253
 Baratov Sokhibjon 12225229
-Shokulov Shohruh 12225260 (Team Leader)
+Shokulov Shohruh 12225260
 ```
 
 ## Dataset
