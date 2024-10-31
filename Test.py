@@ -1,4 +1,3 @@
-# using web cam get the faces
 import cv2
 cap = cv2.VideoCapture(0)
 face_cascade = cv2.CascadeClassifier('classifier/cascade.xml')
@@ -17,3 +16,4 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+# Testing the classifier
