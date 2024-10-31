@@ -3,6 +3,11 @@
 
 Welcome to our project on face detection using the **Viola-Jones algorithm**, part of our Digital Image Processing course. This repository is maintained by ***Team #5***, working collaboratively to implement and demonstrate face detection techniques using this well-known algorithm. 
 
+## Team Members
+Abdurasulov Mirsaid 12225253 (Team Leader)
+Baratov Sokhibjon 12225229
+Shokulov Shohruh 12225260
+
 ## Dataset
 
 You can download the dataset from dataset.zip
