@@ -7,6 +7,7 @@ Welcome to our project on face detection using the **Viola-Jones algorithm**, pa
 
 You can download the dataset from dataset.zip
 ```
+git clone https://github.com/mirsaidl/ViolaJones_FaceDetection.git
 unzip dataset.zip
 ```
 
