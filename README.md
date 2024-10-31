@@ -16,6 +16,7 @@ You can download the dataset from dataset.zip
 ```
 git clone https://github.com/mirsaidl/ViolaJones_FaceDetection.git
 unzip dataset.zip
+cd dataset
 ```
 
 ## About the Project
