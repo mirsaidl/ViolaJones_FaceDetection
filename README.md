@@ -17,7 +17,7 @@ Our project demonstrates:
 - **Bounding Box Classification**: Draws bounding boxes around detected faces with high precision.
 - **Demo Video**:
 
-- https://github.com/user-attachments/assets/a0efba14-0df7-438e-a522-7c92275dec4d
+https://github.com/user-attachments/assets/a0efba14-0df7-438e-a522-7c92275dec4d
 
 
 
