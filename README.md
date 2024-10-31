@@ -3,6 +3,13 @@
 
 Welcome to our project on face detection using the **Viola-Jones algorithm**, part of our Digital Image Processing course. This repository is maintained by ***Team #5***, working collaboratively to implement and demonstrate face detection techniques using this well-known algorithm. 
 
+## Dataset
+
+You can download the dataset from dataset.zip
+```
+unzip dataset.zip
+```
+
 ## About the Project
 
 The **Viola-Jones face detection algorithm** is one of the most successful object detection methods, renowned for its real-time performance and accuracy in detecting human faces. This project is dedicated to understanding, implementing, and showcasing the effectiveness of the algorithm in various scenarios.
